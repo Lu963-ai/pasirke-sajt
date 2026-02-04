@@ -1,10 +1,10 @@
-# Luka Veličkovski – Portfolio
+# Paširke Zavoće – Website
 
 ## 🚀 Live Demo
-👉 https://luka-velickovskiportofolio.netlify.app/
+👉 https://pasirke-zavoce.netlify.app/
 
-## 🧑‍💻 O projektu
-Ovo je lični portfolio sajt koji prikazuje moje web development projekte izrađene u HTML, CSS, JavaScriptu i Bootstrapu.
+## 🧾 About
+Informational website created for *Paširke Zavoće*, presenting the business and its offerings with a clean responsive layout for desktop and mobile.
 
 ## 🛠 Tech Stack
 - HTML5
@@ -12,7 +12,9 @@ Ovo je lični portfolio sajt koji prikazuje moje web development projekte izrađ
 - JavaScript
 - Bootstrap 5
 
-## 📱 Karakteristike
-- Fully responsive
-- Clear project showcase
+## 📱 Features
+- Fully responsive design
+- Clean and simple presentation
+- Easy navigation
+
 - Professional presentation for clients
